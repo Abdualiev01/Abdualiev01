@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abrorjon</h1>
 <h3 align="center">Proficient in a range of programming languages and frameworks, including HTML, CSS, JavaScript, React, Node.js. Skilled in both front-end development, with a proven track record of delivering high-quality, scalable solutions that meet business objectives. Dedicated to staying up-to-date with the latest technologies and industry trends, and committed to continuous learning and professional development.</h3>
 
-<p align="left"><a href="https://alif.tj/?lang=tj" target="blank"><img src="https://alif.tj/static/media/logo.1d1f1764.svg" width="80" height="80"></a></p>
+<p align="left"><a href="https://humo.tj/en/" target="blank"><img src="https://humo.tj/bitrix/templates/humo/images/logo_en.png" width="80" height="80"></a></p>
 - 🔭 I worked on **HumoLab**
 
 - 🌱 I’m currently learning **Express.js**
