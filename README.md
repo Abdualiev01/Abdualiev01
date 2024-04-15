@@ -1,15 +1,15 @@
 <img align="center" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" >
 
-<h1 align="center">Hi 👋, I'm Abrorjon</h1>
+<h1 align="center">Hi 👋, I'm Abror</h1>
 <h3 align="center">Proficient in a range of programming languages and frameworks, including HTML, CSS, JavaScript, React, Node.js. Skilled in both front-end development, with a proven track record of delivering high-quality, scalable solutions that meet business objectives. Dedicated to staying up-to-date with the latest technologies and industry trends, and committed to continuous learning and professional development.</h3>
 
-- 🔭 I worked on ** HumoLab **
+- 🔭 I worked on **HumoLab**
 
 - 🌱 I’m currently learning **Express.js**
 
 - 💬 Ask me about **React, NodeJS,Redux-toolkit, SASS, CSS, HTML, C#, Ant-Design, Material UI**
 
-- 📫 How to reach me **mrabrorabdualiev@gmail.com**
+- 📫 How to reach me **abdualiev474@gmail.com**
 
 <!-- - 📄 Know about my experiences [https://www.canva.com/design/DAFDw6fsScI/wBIix024aHiYKvtwVy_9uQ/view?utm_content=DAFDw6fsScI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFDw6fsScI/wBIix024aHiYKvtwVy_9uQ/view?utm_content=DAFDw6fsScI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) -->
 
